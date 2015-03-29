@@ -1,0 +1,6 @@
+name: VanquishChests
+main: io.vnet.chests.Main
+version: 1.0
+description: >
+             Vanquish extra loot chest plugin
+commands:                      

@@ -1,0 +1,14 @@
+
+#Format: id, data, probability, min-stack-size, max-stack-size
+#Example - 1, 0, 50, 10, 30
+#Stone would appear 50% of the time with a stack size of 10 - 30.
+#Note: probability does not allow for decimal.
+#Note: Needs at least 4 options in list.
+Items:
+-
+-
+-
+-
+
+#Chance of block becoming a chest in percentage (needs a decimal)
+Chance: 100.0
